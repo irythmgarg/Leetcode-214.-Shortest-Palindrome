@@ -18,12 +18,16 @@ We solve this by:
 ---
 ⏱️ Time and Space Complexity
 Time: O(N) — One pass for KMP prefix table.
+
 Space: O(N) — For LPS (prefix) array and reverse string.
 
 ✨ Topics
 KMP algorithm
+
 String pattern matching
+
 Palindrome construction
+
 Prefix table (LPS)
 
 
